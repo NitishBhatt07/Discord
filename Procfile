@@ -1,0 +1,1 @@
+web: gunicorn Discord.wsgi --log-file -
